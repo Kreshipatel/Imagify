@@ -41,6 +41,7 @@ VITE_BACKEND_URL = your_backend_url
 VITE_RAZORPAY_KEY_ID = your_razorpay_key_id
 
 
+
 ## 🚀 How to Run the Project
 
 ### 📦 Prerequisites

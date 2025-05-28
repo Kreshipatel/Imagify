@@ -4,6 +4,12 @@ Imagify is an AI-powered image generation mern stack app that allows users to cr
 
 ---
 
+## 🔗 Live Demo
+
+🌐 Check out the live version here: [Imagify](https://imagify-rho-three.vercel.app/)
+
+---
+
 ## 🌟 Features
 
 - 🔐 User authentication (login/signup/logout)

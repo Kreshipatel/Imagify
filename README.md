@@ -27,20 +27,20 @@ Imagify is an AI-powered image generation mern stack app that allows users to cr
 
 ### 🔑 Server .env
 
-env
+```env
 - CLIPDROP_API_KEY=your_clipdrop_api_key
 - RAZORPAY_KEY_ID=your_razorpay_key_id
 - RAZORPAY_KEY_SECRET=your_razorpay_key_secret
 - JWT_SECRET=your_jwt_secret
 - MONGODB_URI=your_mongodb_connection_string
-
+```
 
 ### 🔑 Client .env
 
-env
+```env
 - VITE_BACKEND_URL = your_backend_url
 - VITE_RAZORPAY_KEY_ID = your_razorpay_key_id
-
+```
 
 
 ## 🚀 How to Run the Project
@@ -59,25 +59,25 @@ env
 
 
 🔧 Step 1: Clone the Repository
-
+```
 git clone https://github.com/Kreshipatel/Imagify.git
 cd imagify
-
+```
 
 🔙 Step 2: Setup and Run the server
-
+```
 cd server
 npm install
 npm run server
-
+```
 Server will run at http://localhost:4000
 
 🎨 Step 3: Setup and Run the Frontend
-
+```
 cd ../client
 npm install
 npm run dev
-
+```
 Frontend will run at http://localhost:5173
 
 💬 How It Works
